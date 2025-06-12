@@ -1,0 +1,6 @@
+$dumpfile wave.vcd
+$dumpon
+*signal /DUT.A
+*signal /DUT.B
+*signal /DUT.Y
+$end
