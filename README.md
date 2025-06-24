@@ -55,5 +55,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 MIT
 
 ## Authors
-Chin2202{https://github.com/Chin2202}
-adityamk123{https://github.com/adityamk123}
+Chinmayi C{https://github.com/Chin2202}
+Aditya M Khiroji{https://github.com/adityamk123}
